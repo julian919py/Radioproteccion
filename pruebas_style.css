@@ -1,0 +1,17 @@
+.part_select{
+    background: #00ffd5;
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.part_request{
+    background: #fff065;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
